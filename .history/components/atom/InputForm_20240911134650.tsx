@@ -8,7 +8,7 @@ export default function InputForm({ textForButton, labelText, playHolderText }){
         <View
             style={{
                 flexDirection: "row",
-                gap: 20,
+                gap: 10,
                 alignItems: "center"
             }}
         >
