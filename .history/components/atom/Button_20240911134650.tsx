@@ -5,7 +5,7 @@ export default function Button({ yoButton }){
     return (
         <View>
             <NativeButton
-                color="#DAF7A8"
+                color="#DAF7A6"
                 title={yoButton}
             />
         </View>
